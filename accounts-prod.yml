@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Ganesh Prod Bank"
+  contactDetails:
+    name: "GaneshProd"
+    email: "ganeshProd123@gmail.com"
+  onCallSupport:
+    - "8686688669"
+    - "7686869699"

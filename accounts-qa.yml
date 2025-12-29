@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Ganesh QA Bank"
+  contactDetails:
+    name: "GaneshQA"
+    email: "ganeshQA@gmail.com"
+  onCallSupport:
+    - "4775858595"
+    - "57585858"

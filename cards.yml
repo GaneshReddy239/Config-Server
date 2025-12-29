@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank Cards related DEV APIs"
+  contactDetails:
+    name: "Ganesh Reddy - DEV Owner"
+    email: "ganesh.dev@eazybank.com"
+  onCallSupport:
+    - "1111111111"
+    - "2222222222"

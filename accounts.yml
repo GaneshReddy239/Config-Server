@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Ganesh Dev Bank"
+  contactDetails:
+    name: "GaneshDev"
+    email: "ganeshDev@gmail.com"
+  onCallSupport:
+    - "4775858595"
+    - "57585858"
