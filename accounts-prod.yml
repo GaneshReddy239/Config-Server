@@ -5,8 +5,9 @@ accounts:
   message: "Welcome to Ganesh Prod Bank"
   contactDetails:
     name: "GaneshProd1"
-    email: "ganeshProd123@gmail.com"
+    email: "ganeshreddyProd@gmail.com"
   onCallSupport:
     - "8686688669"
     - "7686869699"
+
 
